@@ -1,0 +1,6 @@
+9 pts
+It is not clear what exactly is the input sequence for your proposed DFA. 
+What are the accepting states?
+What are the non accepting states?
+I'm not asking for all of them, but ideas of what these could be.
+You definietly need to narrow the focus or change your project.
